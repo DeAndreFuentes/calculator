@@ -1,0 +1,64 @@
+
+.style{
+
+    display: flex;
+    text-align: center;
+    font-family: 'Bungee', cursive;
+    background-color: rgba(46, 176, 216, 0.596);
+    border: rgb(7, 3, 255);
+    color: white;
+    margin: auto;
+    word-spacing: 5px;
+    padding: 10%;
+    
+    
+}
+
+
+.add{
+
+
+    text-align: center;
+    word-spacing: 10px;
+    
+   
+    
+
+}
+
+.subtract{
+
+}
+
+.multiply{
+
+}
+
+.divide{
+
+}
+
+.botton-container{
+    text-align: center;
+    padding: 5rem;
+    
+}
+
+h1{
+    color: red;
+    text-align: center;
+    font-size: large;
+    font-weight: 100;
+    
+    text-indent: 3rem;
+    word-spacing: 10px;
+}
+
+
+
+.para{
+
+    
+    text-align: center;
+    
+}
